@@ -5,6 +5,7 @@ THIS IS GIT PROJECT
 ## Purpose
 
 Sample website with plenty of files for demos for MASTER AND MYBRANCH
+Nouvelle branche branch2
 MASTER
 ADD ANGULAR
 MyBRANCH
