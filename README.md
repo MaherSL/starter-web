@@ -5,6 +5,7 @@ THIS IS GIT PROJECT
 ## Purpose
 
 # MODIFICATION EN LOCAL
+## ADD FROM GITHUB
 
 Sample website with plenty of files for demos for MASTER AND MYBRANCH
 Nouvelle branche branch2
