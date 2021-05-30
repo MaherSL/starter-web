@@ -5,3 +5,5 @@ THIS IS GIT PROJECT
 ## Purpose
 
 Sample website with plenty of files for demos
+
+ADD ANGULAR
